@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    height: 1000px;
+}
+.left{
+    background-color: aqua;
+    width: 50%;
+    height:100%;
+}
+.right{
+    background-color: azure;
+    width:50%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+}
+ul {
+    list-style: none;
+    padding: 0;
+  }
